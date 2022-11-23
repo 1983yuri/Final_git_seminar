@@ -10,3 +10,5 @@
 *git merge branch_name* - команда осуществляющая слияние
 
 ## Conflicts
+
+![git logo here](/img/logo.png) 
