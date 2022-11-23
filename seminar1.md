@@ -1,4 +1,4 @@
-## Git education
+# Git education. Commits
 * Редактирование документа
 * Сохранение изменений CTRL+S
 * Добавление файла к отслеживанию git add
