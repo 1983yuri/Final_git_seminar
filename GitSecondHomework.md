@@ -4,5 +4,6 @@
 * *git branch branch_name* - команда создающая ветку с именем *branch_name*
 * *git checkout branch_name* - команда для перехода к другой ветке с именем *branch_name*
 ## Branch merging
+*git merge branch_name* - команда осуществляющая слияние веток, при этом нужно находится в той ветке, куда мы будем сливать другую
 
 ## Conflicts
